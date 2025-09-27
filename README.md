@@ -2,7 +2,7 @@
 
 **Taste the Bliss, Feel the Energy.**
 
-A responsive multi‑page product showcase built with HTML, CSS, and JavaScript. Live: https://Fadilatu Abdulai.github.io/final project 
+A responsive multi‑page product showcase built with HTML, CSS, and JavaScript. Live: https://github.com/FadilatuAbdulai/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/commits
 
 ## Pages
 - Home — index.html
