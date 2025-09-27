@@ -2,7 +2,7 @@
 
 **Taste the Bliss, Feel the Energy.**
 
-A responsive multi‑page product showcase built with HTML, CSS, and JavaScript. Live: https://your-username.github.io/vital-bliss-showcase
+A responsive multi‑page product showcase built with HTML, CSS, and JavaScript. Live: https://Fadilatu Abdulai.github.io/final project 
 
 ## Pages
 - Home — index.html
